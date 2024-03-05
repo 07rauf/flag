@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.border{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.div1{
+    width: 50px;
+    height: 250px;
+    background-color: cyan;
+    margin: 0 auto;
+}
+.div2{
+    height: 174px;
+   background-color: cyan;
+    width: 50px;
+    margin: 0 auto;
+}
+.div3{
+    height: 92px;
+    background-color: cyan;
+    width: 50px;
+    margin: 0 auto;
+}
+.div4{
+    height: 221px;
+    background-color: cyan;
+    width: 50px;
+    margin: 0 auto;
+}
