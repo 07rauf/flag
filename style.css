@@ -1,0 +1,18 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+  .container {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+.block {
+    background-color: black;
+    width: 400px;
+    height: 250px;
+}
